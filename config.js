@@ -1,5 +1,5 @@
 export default {
-  title: ''PowerHand, // 网站标题
+  title: 'PowerHand', // 网站标题
   nickName: "劲劲仔", // 昵称
   githubName: 'PowerHui01', // github账户名
   githubRepo: 'nuxt2-blog', // 勿修改
